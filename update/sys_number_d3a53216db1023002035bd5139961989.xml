@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_78226_project_ma_project_management">x_78226_project_ma_project_management</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>PM</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-09-04 17:51:56</sys_created_on>
+        <sys_id>d3a53216db1023002035bd5139961989</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PM</sys_name>
+        <sys_package display_value="Project Management" source="x_78226_project_ma">72a53252db1023002035bd513996197b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Project Management">72a53252db1023002035bd513996197b</sys_scope>
+        <sys_update_name>sys_number_d3a53216db1023002035bd5139961989</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-09-04 17:51:56</sys_updated_on>
+    </sys_number>
+</record_update>
