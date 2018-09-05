@@ -3,9 +3,9 @@
     <element attributes="live_feed=true" extends="task" label="Project Management" max_length="40" name="x_78226_project_ma_project_management" type="collection">
         <element attributes="edge_encryption_enabled=true" choice="1" label="Status" max_length="40" name="u_status" type="string">
             <choice>
-                <element label="Red" sequence="0" value="Red"/>
-                <element label="Yellow" sequence="1" value="Yellow"/>
-                <element label="Green" sequence="2" value="Green"/>
+                <element label="Red" sequence="0" value="2"/>
+                <element label="Yellow" sequence="1" value="3"/>
+                <element label="Green" sequence="2" value="1"/>
             </choice>
         </element>
     </element>
