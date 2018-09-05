@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element attributes="live_feed=true" extends="x_78226_project_ma_project_management" label="Project Task" max_length="40" name="x_78226_project_ma_project_task" type="collection"/>
+</database>

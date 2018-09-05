@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_status" table="x_78226_project_ma_project_management" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Red</label>
+            <language>en</language>
+            <name>x_78226_project_ma_project_management</name>
+            <sequence>0</sequence>
+            <sys_created_by>rbautista</sys_created_by>
+            <sys_created_on>2018-09-05 15:24:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e67dd76adb182300a76271198c961944</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>rbautista</sys_updated_by>
+            <sys_updated_on>2018-09-05 15:24:19</sys_updated_on>
+            <value>Red</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Yellow</label>
+            <language>en</language>
+            <name>x_78226_project_ma_project_management</name>
+            <sequence>1</sequence>
+            <sys_created_by>rbautista</sys_created_by>
+            <sys_created_on>2018-09-05 15:24:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ae7dd76adb182300a76271198c961946</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>rbautista</sys_updated_by>
+            <sys_updated_on>2018-09-05 15:24:19</sys_updated_on>
+            <value>Yellow</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Green</label>
+            <language>en</language>
+            <name>x_78226_project_ma_project_management</name>
+            <sequence>2</sequence>
+            <sys_created_by>rbautista</sys_created_by>
+            <sys_created_on>2018-09-05 15:24:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>627dd76adb182300a76271198c961949</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>rbautista</sys_updated_by>
+            <sys_updated_on>2018-09-05 15:24:19</sys_updated_on>
+            <value>Green</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_status</element>
+            <name>x_78226_project_ma_project_management</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>rbautista</sys_created_by>
+            <sys_created_on>2018-09-05 15:24:19</sys_created_on>
+            <sys_id>6a7dd76adb182300a76271198c961946</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_status</sys_name>
+            <sys_package display_value="Project Management" source="x_78226_project_ma">72a53252db1023002035bd513996197b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Project Management">72a53252db1023002035bd513996197b</sys_scope>
+            <sys_update_name>sys_choice_x_78226_project_ma_project_management_u_status</sys_update_name>
+            <sys_updated_by>rbautista</sys_updated_by>
+            <sys_updated_on>2018-09-05 15:24:19</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
