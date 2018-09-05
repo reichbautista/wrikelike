@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="001d6f62db582300a76271198c9619b2" sys_domain="global" table="x_78226_project_ma_project_phase" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>rbautista</sys_created_by>
+            <sys_created_on>2018-09-05 16:32:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>441d6f62db582300a76271198c9619b5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_78226_project_ma_project_phase" name="x_78226_project_ma_project_phase" sys_domain="global" view="Default view">001d6f62db582300a76271198c9619b2</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_78226_project_ma_project_phase" sys_domain="global" view="Default view">0c1d6f62db582300a76271198c9619b3</sys_ui_section>
+            <sys_updated_by>rbautista</sys_updated_by>
+            <sys_updated_on>2018-09-05 16:32:24</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>rbautista</sys_created_by>
+            <sys_created_on>2018-09-05 16:32:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>441d6f62db582300a76271198c9619b7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_78226_project_ma_project_phase" name="x_78226_project_ma_project_phase" sys_domain="global" view="Default view">001d6f62db582300a76271198c9619b2</sys_ui_form>
+            <sys_ui_section caption="Additional Information" display_value="Additional Information" name="x_78226_project_ma_project_phase" sys_domain="global" view="Default view">8c1d6f62db582300a76271198c9619b5</sys_ui_section>
+            <sys_updated_by>rbautista</sys_updated_by>
+            <sys_updated_on>2018-09-05 16:32:24</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>rbautista</sys_created_by>
+            <sys_created_on>2018-09-05 16:32:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>881d6f62db582300a76271198c9619b8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_78226_project_ma_project_phase" name="x_78226_project_ma_project_phase" sys_domain="global" view="Default view">001d6f62db582300a76271198c9619b2</sys_ui_form>
+            <sys_ui_section caption="Dates" display_value="Dates" name="x_78226_project_ma_project_phase" sys_domain="global" view="Default view">481d6f62db582300a76271198c9619b7</sys_ui_section>
+            <sys_updated_by>rbautista</sys_updated_by>
+            <sys_updated_on>2018-09-05 16:32:24</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_78226_project_ma_project_phase</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>rbautista</sys_created_by>
+            <sys_created_on>2018-09-05 16:32:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>001d6f62db582300a76271198c9619b2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_78226_project_ma_project_phase</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Project Management" source="x_78226_project_ma">72a53252db1023002035bd513996197b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Project Management">72a53252db1023002035bd513996197b</sys_scope>
+            <sys_update_name>sys_ui_form_sections_001d6f62db582300a76271198c9619b2</sys_update_name>
+            <sys_updated_by>rbautista</sys_updated_by>
+            <sys_updated_on>2018-09-05 16:32:24</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

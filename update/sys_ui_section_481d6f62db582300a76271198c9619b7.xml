@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="Dates" section_id="481d6f62db582300a76271198c9619b7" sys_domain="global" table="x_78226_project_ma_project_phase" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>expected_start</element>
+            <position>0</position>
+            <sys_created_by>rbautista</sys_created_by>
+            <sys_created_on>2018-09-05 16:32:24</sys_created_on>
+            <sys_id>041d6f62db582300a76271198c9619b8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Dates" display_value="Dates" name="x_78226_project_ma_project_phase" sys_domain="global" view="Default view">481d6f62db582300a76271198c9619b7</sys_ui_section>
+            <sys_updated_by>rbautista</sys_updated_by>
+            <sys_updated_on>2018-09-05 16:32:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>rbautista</sys_created_by>
+            <sys_created_on>2018-09-05 16:32:24</sys_created_on>
+            <sys_id>841d6f62db582300a76271198c9619b8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Dates" display_value="Dates" name="x_78226_project_ma_project_phase" sys_domain="global" view="Default view">481d6f62db582300a76271198c9619b7</sys_ui_section>
+            <sys_updated_by>rbautista</sys_updated_by>
+            <sys_updated_on>2018-09-05 16:32:24</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>due_date</element>
+            <position>2</position>
+            <sys_created_by>rbautista</sys_created_by>
+            <sys_created_on>2018-09-05 16:32:24</sys_created_on>
+            <sys_id>081d6f62db582300a76271198c9619b8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Dates" display_value="Dates" name="x_78226_project_ma_project_phase" sys_domain="global" view="Default view">481d6f62db582300a76271198c9619b7</sys_ui_section>
+            <sys_updated_by>rbautista</sys_updated_by>
+            <sys_updated_on>2018-09-05 16:32:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Dates</caption>
+            <header>false</header>
+            <name>x_78226_project_ma_project_phase</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>rbautista</sys_created_by>
+            <sys_created_on>2018-09-05 16:32:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>481d6f62db582300a76271198c9619b7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Dates</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Project Management" source="x_78226_project_ma">72a53252db1023002035bd513996197b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Project Management">72a53252db1023002035bd513996197b</sys_scope>
+            <sys_update_name>sys_ui_section_481d6f62db582300a76271198c9619b7</sys_update_name>
+            <sys_updated_by>rbautista</sys_updated_by>
+            <sys_updated_on>2018-09-05 16:32:24</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
