@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element attributes="live_feed=true" extends="x_78226_project_ma_project_management" label="Project Phase" max_length="40" name="x_78226_project_ma_project_phase" type="collection"/>
+    <element attributes="live_feed=true" extends="x_78226_project_ma_project_management" label="Project Phase" max_length="40" name="x_78226_project_ma_project_phase" sizeclass="2" type="collection">
+        <element label="Parent Project" max_length="32" name="parent_project" reference="x_78226_project_ma_project_management" type="reference"/>
+    </element>
 </database>
