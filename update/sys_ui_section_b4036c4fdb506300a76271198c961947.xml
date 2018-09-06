@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="IT Infrastructure Project Intake Form" section_id="b4036c4fdb506300a76271198c961947" sys_domain="global" table="x_78226_project_ma_project_management" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_proposal_date</element>
+            <position>0</position>
+            <sys_created_by>rbautista</sys_created_by>
+            <sys_created_on>2018-09-06 15:17:44</sys_created_on>
+            <sys_id>089560cfdb506300a76271198c961991</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="IT Infrastructure Project Intake Form" display_value="IT Infrastructure Project Intake Form" name="x_78226_project_ma_project_management" sys_domain="global" view="Default view">b4036c4fdb506300a76271198c961947</sys_ui_section>
+            <sys_updated_by>rbautista</sys_updated_by>
+            <sys_updated_on>2018-09-06 15:17:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>rbautista</sys_created_by>
+            <sys_created_on>2018-09-06 15:17:44</sys_created_on>
+            <sys_id>889560cfdb506300a76271198c961991</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="IT Infrastructure Project Intake Form" display_value="IT Infrastructure Project Intake Form" name="x_78226_project_ma_project_management" sys_domain="global" view="Default view">b4036c4fdb506300a76271198c961947</sys_ui_section>
+            <sys_updated_by>rbautista</sys_updated_by>
+            <sys_updated_on>2018-09-06 15:17:44</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_project_name</element>
+            <position>2</position>
+            <sys_created_by>rbautista</sys_created_by>
+            <sys_created_on>2018-09-06 15:17:44</sys_created_on>
+            <sys_id>0c9560cfdb506300a76271198c961991</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="IT Infrastructure Project Intake Form" display_value="IT Infrastructure Project Intake Form" name="x_78226_project_ma_project_management" sys_domain="global" view="Default view">b4036c4fdb506300a76271198c961947</sys_ui_section>
+            <sys_updated_by>rbautista</sys_updated_by>
+            <sys_updated_on>2018-09-06 15:17:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>3</position>
+            <sys_created_by>rbautista</sys_created_by>
+            <sys_created_on>2018-09-06 15:17:44</sys_created_on>
+            <sys_id>8c9560cfdb506300a76271198c961991</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="IT Infrastructure Project Intake Form" display_value="IT Infrastructure Project Intake Form" name="x_78226_project_ma_project_management" sys_domain="global" view="Default view">b4036c4fdb506300a76271198c961947</sys_ui_section>
+            <sys_updated_by>rbautista</sys_updated_by>
+            <sys_updated_on>2018-09-06 15:17:44</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>organizational_strategic_goal_alignment</element>
+            <position>4</position>
+            <sys_created_by>rbautista</sys_created_by>
+            <sys_created_on>2018-09-06 15:17:44</sys_created_on>
+            <sys_id>009560cfdb506300a76271198c961992</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="IT Infrastructure Project Intake Form" display_value="IT Infrastructure Project Intake Form" name="x_78226_project_ma_project_management" sys_domain="global" view="Default view">b4036c4fdb506300a76271198c961947</sys_ui_section>
+            <sys_updated_by>rbautista</sys_updated_by>
+            <sys_updated_on>2018-09-06 15:17:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>fitbit_strategic_goal_alignment</element>
+            <position>5</position>
+            <sys_created_by>rbautista</sys_created_by>
+            <sys_created_on>2018-09-06 15:17:44</sys_created_on>
+            <sys_id>809560cfdb506300a76271198c961992</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="IT Infrastructure Project Intake Form" display_value="IT Infrastructure Project Intake Form" name="x_78226_project_ma_project_management" sys_domain="global" view="Default view">b4036c4fdb506300a76271198c961947</sys_ui_section>
+            <sys_updated_by>rbautista</sys_updated_by>
+            <sys_updated_on>2018-09-06 15:17:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>6</position>
+            <sys_created_by>rbautista</sys_created_by>
+            <sys_created_on>2018-09-06 15:17:44</sys_created_on>
+            <sys_id>049560cfdb506300a76271198c961992</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="IT Infrastructure Project Intake Form" display_value="IT Infrastructure Project Intake Form" name="x_78226_project_ma_project_management" sys_domain="global" view="Default view">b4036c4fdb506300a76271198c961947</sys_ui_section>
+            <sys_updated_by>rbautista</sys_updated_by>
+            <sys_updated_on>2018-09-06 15:17:44</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>business_owner</element>
+            <position>7</position>
+            <sys_created_by>rbautista</sys_created_by>
+            <sys_created_on>2018-09-06 15:17:44</sys_created_on>
+            <sys_id>849560cfdb506300a76271198c961992</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="IT Infrastructure Project Intake Form" display_value="IT Infrastructure Project Intake Form" name="x_78226_project_ma_project_management" sys_domain="global" view="Default view">b4036c4fdb506300a76271198c961947</sys_ui_section>
+            <sys_updated_by>rbautista</sys_updated_by>
+            <sys_updated_on>2018-09-06 15:17:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>project_sponsor</element>
+            <position>8</position>
+            <sys_created_by>rbautista</sys_created_by>
+            <sys_created_on>2018-09-06 15:17:44</sys_created_on>
+            <sys_id>089560cfdb506300a76271198c961992</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="IT Infrastructure Project Intake Form" display_value="IT Infrastructure Project Intake Form" name="x_78226_project_ma_project_management" sys_domain="global" view="Default view">b4036c4fdb506300a76271198c961947</sys_ui_section>
+            <sys_updated_by>rbautista</sys_updated_by>
+            <sys_updated_on>2018-09-06 15:17:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>9</position>
+            <sys_created_by>rbautista</sys_created_by>
+            <sys_created_on>2018-09-06 15:17:44</sys_created_on>
+            <sys_id>889560cfdb506300a76271198c961992</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="IT Infrastructure Project Intake Form" display_value="IT Infrastructure Project Intake Form" name="x_78226_project_ma_project_management" sys_domain="global" view="Default view">b4036c4fdb506300a76271198c961947</sys_ui_section>
+            <sys_updated_by>rbautista</sys_updated_by>
+            <sys_updated_on>2018-09-06 15:17:44</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>project_manager</element>
+            <position>10</position>
+            <sys_created_by>rbautista</sys_created_by>
+            <sys_created_on>2018-09-06 15:17:44</sys_created_on>
+            <sys_id>0c9560cfdb506300a76271198c961992</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="IT Infrastructure Project Intake Form" display_value="IT Infrastructure Project Intake Form" name="x_78226_project_ma_project_management" sys_domain="global" view="Default view">b4036c4fdb506300a76271198c961947</sys_ui_section>
+            <sys_updated_by>rbautista</sys_updated_by>
+            <sys_updated_on>2018-09-06 15:17:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>key_contact</element>
+            <position>11</position>
+            <sys_created_by>rbautista</sys_created_by>
+            <sys_created_on>2018-09-06 15:17:44</sys_created_on>
+            <sys_id>8c9560cfdb506300a76271198c961992</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="IT Infrastructure Project Intake Form" display_value="IT Infrastructure Project Intake Form" name="x_78226_project_ma_project_management" sys_domain="global" view="Default view">b4036c4fdb506300a76271198c961947</sys_ui_section>
+            <sys_updated_by>rbautista</sys_updated_by>
+            <sys_updated_on>2018-09-06 15:17:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>12</position>
+            <sys_created_by>rbautista</sys_created_by>
+            <sys_created_on>2018-09-06 15:17:44</sys_created_on>
+            <sys_id>009560cfdb506300a76271198c961993</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="IT Infrastructure Project Intake Form" display_value="IT Infrastructure Project Intake Form" name="x_78226_project_ma_project_management" sys_domain="global" view="Default view">b4036c4fdb506300a76271198c961947</sys_ui_section>
+            <sys_updated_by>rbautista</sys_updated_by>
+            <sys_updated_on>2018-09-06 15:17:44</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>is_the_project_part_of_a_program_larger_project</element>
+            <position>13</position>
+            <sys_created_by>rbautista</sys_created_by>
+            <sys_created_on>2018-09-06 15:17:44</sys_created_on>
+            <sys_id>809560cfdb506300a76271198c961993</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="IT Infrastructure Project Intake Form" display_value="IT Infrastructure Project Intake Form" name="x_78226_project_ma_project_management" sys_domain="global" view="Default view">b4036c4fdb506300a76271198c961947</sys_ui_section>
+            <sys_updated_by>rbautista</sys_updated_by>
+            <sys_updated_on>2018-09-06 15:17:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name_of_the_program_project</element>
+            <position>14</position>
+            <sys_created_by>rbautista</sys_created_by>
+            <sys_created_on>2018-09-06 15:17:44</sys_created_on>
+            <sys_id>049560cfdb506300a76271198c961993</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="IT Infrastructure Project Intake Form" display_value="IT Infrastructure Project Intake Form" name="x_78226_project_ma_project_management" sys_domain="global" view="Default view">b4036c4fdb506300a76271198c961947</sys_ui_section>
+            <sys_updated_by>rbautista</sys_updated_by>
+            <sys_updated_on>2018-09-06 15:17:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>at_this_time_are_the_project_s_business_requirements_well_defined_and_understood</element>
+            <position>15</position>
+            <sys_created_by>rbautista</sys_created_by>
+            <sys_created_on>2018-09-06 15:17:44</sys_created_on>
+            <sys_id>849560cfdb506300a76271198c961993</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="IT Infrastructure Project Intake Form" display_value="IT Infrastructure Project Intake Form" name="x_78226_project_ma_project_management" sys_domain="global" view="Default view">b4036c4fdb506300a76271198c961947</sys_ui_section>
+            <sys_updated_by>rbautista</sys_updated_by>
+            <sys_updated_on>2018-09-06 15:17:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>current_workaround_s_in_place</element>
+            <position>16</position>
+            <sys_created_by>rbautista</sys_created_by>
+            <sys_created_on>2018-09-06 15:17:44</sys_created_on>
+            <sys_id>089560cfdb506300a76271198c961993</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="IT Infrastructure Project Intake Form" display_value="IT Infrastructure Project Intake Form" name="x_78226_project_ma_project_management" sys_domain="global" view="Default view">b4036c4fdb506300a76271198c961947</sys_ui_section>
+            <sys_updated_by>rbautista</sys_updated_by>
+            <sys_updated_on>2018-09-06 15:17:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>expected_benefits_of_completing_the_project</element>
+            <position>17</position>
+            <sys_created_by>rbautista</sys_created_by>
+            <sys_created_on>2018-09-06 15:17:44</sys_created_on>
+            <sys_id>889560cfdb506300a76271198c961993</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="IT Infrastructure Project Intake Form" display_value="IT Infrastructure Project Intake Form" name="x_78226_project_ma_project_management" sys_domain="global" view="Default view">b4036c4fdb506300a76271198c961947</sys_ui_section>
+            <sys_updated_by>rbautista</sys_updated_by>
+            <sys_updated_on>2018-09-06 15:17:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>what_are_the_business_impacts_if_the_project_is_not_done</element>
+            <position>18</position>
+            <sys_created_by>rbautista</sys_created_by>
+            <sys_created_on>2018-09-06 15:17:44</sys_created_on>
+            <sys_id>0c9560cfdb506300a76271198c961993</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="IT Infrastructure Project Intake Form" display_value="IT Infrastructure Project Intake Form" name="x_78226_project_ma_project_management" sys_domain="global" view="Default view">b4036c4fdb506300a76271198c961947</sys_ui_section>
+            <sys_updated_by>rbautista</sys_updated_by>
+            <sys_updated_on>2018-09-06 15:17:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>does_the_project_involves_a_substantial_amount_of_change_disruption_to_existing_technology_business_processes_procedures_and_or_policies_and_could_lead_to_a_short_term_decrease_in_productivity_during_project_implementation</element>
+            <position>19</position>
+            <sys_created_by>rbautista</sys_created_by>
+            <sys_created_on>2018-09-06 15:17:44</sys_created_on>
+            <sys_id>8c9560cfdb506300a76271198c961993</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="IT Infrastructure Project Intake Form" display_value="IT Infrastructure Project Intake Form" name="x_78226_project_ma_project_management" sys_domain="global" view="Default view">b4036c4fdb506300a76271198c961947</sys_ui_section>
+            <sys_updated_by>rbautista</sys_updated_by>
+            <sys_updated_on>2018-09-06 15:17:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>IT Infrastructure Project Intake Form</caption>
+            <header>false</header>
+            <name>x_78226_project_ma_project_management</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>rbautista</sys_created_by>
+            <sys_created_on>2018-09-06 15:06:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b4036c4fdb506300a76271198c961947</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>IT Infrastructure Project Intake Form</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Project Management" source="x_78226_project_ma">72a53252db1023002035bd513996197b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Project Management">72a53252db1023002035bd513996197b</sys_scope>
+            <sys_update_name>sys_ui_section_b4036c4fdb506300a76271198c961947</sys_update_name>
+            <sys_updated_by>rbautista</sys_updated_by>
+            <sys_updated_on>2018-09-06 15:06:35</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

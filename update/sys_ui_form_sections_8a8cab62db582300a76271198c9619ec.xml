@@ -43,6 +43,20 @@
             <sys_updated_by>rbautista</sys_updated_by>
             <sys_updated_on>2018-09-05 16:30:05</sys_updated_on>
         </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>rbautista</sys_created_by>
+            <sys_created_on>2018-09-06 15:06:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3c036c4fdb506300a76271198c96194a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_78226_project_ma_project_management" name="x_78226_project_ma_project_management" sys_domain="global" view="Default view">8a8cab62db582300a76271198c9619ec</sys_ui_form>
+            <sys_ui_section caption="IT Infrastructure Project Intake Form" display_value="IT Infrastructure Project Intake Form" name="x_78226_project_ma_project_management" sys_domain="global" view="Default view">b4036c4fdb506300a76271198c961947</sys_ui_section>
+            <sys_updated_by>rbautista</sys_updated_by>
+            <sys_updated_on>2018-09-06 15:06:35</sys_updated_on>
+        </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_78226_project_ma_project_management</name>
             <roles/>

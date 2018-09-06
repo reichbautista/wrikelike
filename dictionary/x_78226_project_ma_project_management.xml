@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
     <element attributes="live_feed=true" audit="true" extends="task" label="Project Management" max_length="40" name="x_78226_project_ma_project_management" sizeclass="1" type="collection">
+        <element label="At this time, are the projects business requirements well-defined and understood" max_length="40" name="at_this_time_are_the_project_s_business_requirements_well_defined_and_understood" type="boolean"/>
+        <element label="Business Owner" max_length="32" name="business_owner" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Current Workaround(s) in place" max_length="1000" name="current_workaround_s_in_place" type="string"/>
+        <element label="Does the project involves a substantial amount of change (disruption) to existin" max_length="40" name="does_the_project_involves_a_substantial_amount_of_change_disruption_to_existing_" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Expected benefits of completing the project" max_length="1000" name="expected_benefits_of_completing_the_project" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Fitbit Strategic Goal Alignment" max_length="1000" name="fitbit_strategic_goal_alignment" type="string"/>
+        <element label="Is the project part of a program / larger project" max_length="40" name="is_the_project_part_of_a_program_larger_project" type="boolean"/>
+        <element label="Key Contact" max_length="32" name="key_contact" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Name of the program / project" max_length="40" name="name_of_the_program_project" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Organizational Strategic Goal Alignment" max_length="1000" name="organizational_strategic_goal_alignment" type="string"/>
+        <element label="Project Manager" max_length="32" name="project_manager" reference="sys_user" type="reference"/>
+        <element label="Project Sponsor" max_length="32" name="project_sponsor" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Project Name" max_length="40" name="u_project_name" type="string"/>
+        <element label="Proposal Date" max_length="40" name="u_proposal_date" type="glide_date"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Status" max_length="40" name="u_status" type="string">
             <choice>
                 <element label="Red" sequence="0" value="2"/>
@@ -8,5 +22,6 @@
                 <element label="Green" sequence="2" value="1"/>
             </choice>
         </element>
+        <element attributes="edge_encryption_enabled=true" label="What are the business impacts if the project is not done" max_length="1000" name="what_are_the_business_impacts_if_the_project_is_not_done" type="string"/>
     </element>
 </database>
