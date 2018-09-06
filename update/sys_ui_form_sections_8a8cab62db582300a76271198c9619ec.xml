@@ -4,16 +4,16 @@
         <sys_ui_form_section action="INSERT_OR_UPDATE">
             <position>0</position>
             <sys_created_by>rbautista</sys_created_by>
-            <sys_created_on>2018-09-05 16:30:05</sys_created_on>
+            <sys_created_on>2018-09-06 15:50:02</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>428cab62db582300a76271198c9619ef</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_id>49fce883db906300a76271198c9619a2</sys_id>
+            <sys_mod_count>1</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_78226_project_ma_project_management" name="x_78226_project_ma_project_management" sys_domain="global" view="Default view">8a8cab62db582300a76271198c9619ec</sys_ui_form>
-            <sys_ui_section caption="NULL" display_value="" name="x_78226_project_ma_project_management" sys_domain="global" view="Default view">01ac5f66db182300a76271198c9619dc</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="x_78226_project_ma_project_management" sys_domain="global" view="Default view">89fc6883db906300a76271198c96199e</sys_ui_section>
             <sys_updated_by>rbautista</sys_updated_by>
-            <sys_updated_on>2018-09-05 16:30:05</sys_updated_on>
+            <sys_updated_on>2018-09-06 15:50:02</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form_section action="INSERT_OR_UPDATE">
             <position>1</position>
