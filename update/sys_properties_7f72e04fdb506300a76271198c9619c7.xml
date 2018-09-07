@@ -12,16 +12,16 @@
         <sys_created_by>rbautista</sys_created_by>
         <sys_created_on>2018-09-06 15:04:21</sys_created_on>
         <sys_id>7f72e04fdb506300a76271198c9619c7</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>glide.ui.x_78226_project_ma_project_management_activity.fields</sys_name>
         <sys_package display_value="Project Management" source="x_78226_project_ma">72a53252db1023002035bd513996197b</sys_package>
         <sys_policy/>
         <sys_scope display_value="Project Management">72a53252db1023002035bd513996197b</sys_scope>
         <sys_update_name>sys_properties_7f72e04fdb506300a76271198c9619c7</sys_update_name>
         <sys_updated_by>rbautista</sys_updated_by>
-        <sys_updated_on>2018-09-06 15:21:06</sys_updated_on>
+        <sys_updated_on>2018-09-06 17:21:12</sys_updated_on>
         <type>string</type>
-        <value>assigned_to,cmdb_ci,state,impact,priority,opened_by,work_notes,comments,*Attachments*,active,activity_due,work_end,work_start,additional_assignee_list,approval,approval_history,approval_set,assignment_group,business_duration,business_service,closed_at,closed_by,comments_and_work_notes,company,contact_type,correlation_id,correlation_display,sys_created_on,sys_created_by,delivery_plan,delivery_task,description,sys_domain,sys_domain_path,due_date,calendar_duration,escalation,expected_start,follow_up,group_list,knowledge,location,made_sla,opened_at,order,parent,reassignment_count,number,close_notes,sla_due,short_description,u_status,sys_tags,sys_class_name,time_worked,sys_updated_on,sys_updated_by,sys_mod_count,upon_approval,upon_reject,urgency,user_input,watch_list,work_notes_list,*Email*,*Relations*,at_this_time_are_the_project_s_business_requirements_well_defined_and_understood,business_owner,current_workaround_s_in_place,does_the_project_involves_a_substantial_amount_of_change_disruption_to_existing_,expected_benefits_of_completing_the_project,fitbit_strategic_goal_alignment,is_the_project_part_of_a_program_larger_project,key_contact,name_of_the_program_project,organizational_strategic_goal_alignment,project_manager,u_project_name,project_sponsor,u_proposal_date,what_are_the_business_impacts_if_the_project_is_not_done</value>
+        <value>assigned_to,cmdb_ci,state,impact,priority,opened_by,work_notes,comments,*Attachments*,active,activity_due,work_end,work_start,additional_assignee_list,approval,approval_history,approval_set,assignment_group,business_duration,business_service,closed_at,closed_by,comments_and_work_notes,company,contact_type,correlation_id,correlation_display,sys_created_on,sys_created_by,delivery_plan,delivery_task,description,sys_domain,sys_domain_path,due_date,calendar_duration,escalation,expected_start,follow_up,group_list,knowledge,location,made_sla,opened_at,order,parent,reassignment_count,number,close_notes,sla_due,short_description,u_status,sys_tags,sys_class_name,time_worked,sys_updated_on,sys_updated_by,sys_mod_count,upon_approval,upon_reject,urgency,user_input,watch_list,work_notes_list,*Email*,*Relations*,at_this_time_are_the_project_s_business_requirements_well_defined_and_understood,business_owner,current_workaround_s_in_place,does_the_project_involves_a_substantial_amount_of_change_disruption_to_existing_,expected_benefits_of_completing_the_project,fitbit_strategic_goal_alignment,is_the_project_part_of_a_program_larger_project,key_contact,name_of_the_program_project,organizational_strategic_goal_alignment,project_manager,u_project_name,project_sponsor,u_proposal_date,what_are_the_business_impacts_if_the_project_is_not_done,u_planned_end_date,u_planned_start_date</value>
         <write_roles/>
     </sys_properties>
     <sys_translated_text action="delete_multiple" query="documentkey=7f72e04fdb506300a76271198c9619c7"/>

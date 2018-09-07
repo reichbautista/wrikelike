@@ -2,16 +2,16 @@
 <record_update>
     <sys_ui_section caption="Dates" section_id="294d63a2db582300a76271198c961967" sys_domain="global" table="x_78226_project_ma_project_task" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>expected_start</element>
+            <element>u_planned_start_date</element>
             <position>0</position>
             <sys_created_by>rbautista</sys_created_by>
-            <sys_created_on>2018-09-05 16:33:19</sys_created_on>
-            <sys_id>e14d63a2db582300a76271198c961968</sys_id>
+            <sys_created_on>2018-09-07 16:11:49</sys_created_on>
+            <sys_id>428b719bdbd86300a76271198c9619bf</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Dates" display_value="Dates" name="x_78226_project_ma_project_task" sys_domain="global" view="Default view">294d63a2db582300a76271198c961967</sys_ui_section>
             <sys_updated_by>rbautista</sys_updated_by>
-            <sys_updated_on>2018-09-05 16:33:19</sys_updated_on>
+            <sys_updated_on>2018-09-07 16:11:49</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -19,27 +19,27 @@
             <element>.split</element>
             <position>1</position>
             <sys_created_by>rbautista</sys_created_by>
-            <sys_created_on>2018-09-05 16:33:19</sys_created_on>
-            <sys_id>654d63a2db582300a76271198c961968</sys_id>
+            <sys_created_on>2018-09-07 16:11:49</sys_created_on>
+            <sys_id>c28b719bdbd86300a76271198c9619bf</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Dates" display_value="Dates" name="x_78226_project_ma_project_task" sys_domain="global" view="Default view">294d63a2db582300a76271198c961967</sys_ui_section>
             <sys_updated_by>rbautista</sys_updated_by>
-            <sys_updated_on>2018-09-05 16:33:19</sys_updated_on>
+            <sys_updated_on>2018-09-07 16:11:49</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>due_date</element>
+            <element>u_planned_end_date</element>
             <position>2</position>
             <sys_created_by>rbautista</sys_created_by>
-            <sys_created_on>2018-09-05 16:33:19</sys_created_on>
-            <sys_id>e54d63a2db582300a76271198c961968</sys_id>
+            <sys_created_on>2018-09-07 16:11:49</sys_created_on>
+            <sys_id>468b719bdbd86300a76271198c9619bf</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Dates" display_value="Dates" name="x_78226_project_ma_project_task" sys_domain="global" view="Default view">294d63a2db582300a76271198c961967</sys_ui_section>
             <sys_updated_by>rbautista</sys_updated_by>
-            <sys_updated_on>2018-09-05 16:33:19</sys_updated_on>
+            <sys_updated_on>2018-09-07 16:11:49</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
